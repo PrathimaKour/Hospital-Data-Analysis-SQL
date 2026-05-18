@@ -1,0 +1,14 @@
+SQL Assignment 
+Instruction:  
+First, download the Hospital Data.csv file and import it into SQL. Then, solve the given 
+queries to complete. 
+1. Total Number of Patients : Write an SQL query to find the total number of patients across all hospitals. 
+2. Average Number of Doctors per Hospital : Retrieve the average count of doctors available in each hospital. 
+3. Top 3 Departments with the Highest Number of Patients : Find the top 3 hospital departments that have the highest number of patients. 
+4. Hospital with the Maximum Medical Expenses : Identify the hospital that recorded the highest medical expenses. 
+5. Daily Average Medical Expenses : Calculate the average medical expenses per day for each hospital. 
+6. Longest Hospital Stay : Find the patient with the longest stay by calculating the difference between Discharge Date and Admission Date. 
+7. Total Patients Treated Per City : Count the total number of patients treated in each city. 
+8. Average Length of Stay Per Department : Calculate the average number of days patients spend in each department. 
+9. Identify the Department with the Lowest Number of Patients : Find the department with the least number of patients. 
+10. Monthly Medical Expenses Report : Group the data by month and calculate the total medical expenses for each month.
